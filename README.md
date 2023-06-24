@@ -37,6 +37,11 @@ The format of the generated comments can be customized through settings.
 Executing this function will generate a function comment based on the content of the selected text.
 
 
+## HOW TO USE
+
+Select the function part in visual mode and press the 'm' key to execute the function.
+The format of the comments to be output can be customized to some extent in the settings.
+
 ## SETTINGS
 
 The following variables are available.
